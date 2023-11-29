@@ -1,23 +1,16 @@
-.center {
-    display: block;
-       margin-left: auto;
-       margin-right: auto;
-       width: 50%;
-    }
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="WebStyle.css">
+</head>
+<title>Hi Friends</title>
+<body style="background-color: azure;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.harveker.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F2%2F2020%2F02%2Fhabits-of-happy-people.jpg&f=1&nofb=1&ipt=67c3a082b42549978927a070f4b4fc7ce1b8b2c7a1db5bd7a795653b1ebcd176&ipo=images" alt = "Group of Happy People" class="center">
 
-p   {
-    color:blue;
-        font-size:10%;
-     text-align:center;
-    margin-top:5%;
-    margin-left:10%;
-     margin-right:10%;
-     font-weight:bolder
-
-   }
-
-   img {
-    align-self: center;
-max-width: 40%;
-
-background-color:red;
+    <p>So I have this idea where I want to make people happy by making them web pages that they would like to be put up.
+        <br><br><br>
+        For example this will have many pages and each page or link will be something people will want me to have on the site.
+    </p>
+   
+</body>
+</html>
